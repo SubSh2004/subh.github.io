@@ -1,47 +1,36 @@
----
-hide:
-  - toc
-  - navigation
----
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace the two placeholder cards (marked [YOUR PROJECT ...]) with your real projects
-- [ ] For each project: add a thumbnail image to docs/assets/images/ and update the path below
-- [ ] For each project: create a project page by copying sample-project.md
-- [ ] For each project: add a nav entry in mkdocs.yml (see the comments there)
-- [ ] Delete placeholder cards you don't need yet
--->
-
 # Projects
 
-A selection of my geospatial projects. Click any card to see the full write-up.
+A collection of projects spanning geospatial analysis, remote sensing, software development, and entrepreneurship.
 
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/campuszon.png)
 
-**[Sample Project](sample-project.md)**
+**[CampusZon](https://www.campuszon.tech/)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+A secure campus marketplace developed for students to buy, sell, and rent items within their college community. Features include email verification, listings, search, booking workflows, and user authentication.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`Python` `Web Development` `Startup` `Product Design`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](https://www.campuszon.tech/){ .md-button }
+
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+![](../assets/images/password-manager.png)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[Secure Password Manager](https://github.com/SubSh2004/Password-manager/blob/main/README.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+A cybersecurity-focused desktop application built using Python, Cryptography, and SQLite for secure password storage, encryption, and password generation.
 
-`Python` `pandas` `Folium`
+`Python` `Cryptography` `SQLite`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →](https://github.com/SubSh2004/Password-manager/blob/main/README.md){ .md-button }
+
+</div>
+
+
 </div>
 
 </div>

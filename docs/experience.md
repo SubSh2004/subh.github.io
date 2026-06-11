@@ -1,16 +1,3 @@
----
-hide:
-  - toc
-  - navigation
----
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
-
 # Experience & Education
 
 ## Work Experience
@@ -19,23 +6,58 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Co-Founder — CampusZon
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+*Nov 2025 – Present | IIT (ISM) Dhanbad, India*
+
+* Built a secure campus marketplace enabling students to buy, sell, and rent items within the college community.
+* Implemented a college email verification system to improve trust and prevent fraud.
+* Led product development, backend implementation, and platform deployment.
+* Developed core marketplace features including listings, search, booking workflows, and payment integration.
 
 </div>
 
 <div class="timeline-entry" markdown>
 
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
+### Member — E-Cell, IIT (ISM) Dhanbad
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+*Oct 2025 – Present | Dhanbad, India*
+
+* Participated in entrepreneurial initiatives and startup ecosystem activities.
+* Engaged in workshops and events focused on innovation, startups, and business development.
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Documentation & Content Writing Volunteer — Srijan IIT (ISM)
+
+*2025 | Dhanbad, India*
+
+* Created and edited official event documentation and promotional content.
+* Improved clarity, readability, and consistency of communication materials.
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Volunteer — PARAKRAM IIT (ISM)
+
+*Mar 2025 | Dhanbad, India*
+
+* Managed event logistics, equipment handling, and coordination activities.
+* Solved real-time operational challenges during event execution.
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Volunteer — Hackfest IIT (ISM)
+
+*Apr 2025 | Dhanbad, India*
+
+* Assisted in organizing volunteer schedules and workflows.
+* Supported large-scale event management and coordination activities.
 
 </div>
 
@@ -45,22 +67,27 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### Integrated M.Tech in Applied Geology
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
+**Indian Institute of Technology (ISM) Dhanbad** | *2024 – 2029*
+
+Specializing in Applied Geology with interests in Remote Sensing, GIS, Geospatial Data Science, and technology-driven solutions.
 
 ---
 
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### Higher Secondary Education
+
+**DAV School, Siliguri** | *2010 – 2023*
+
+* House Captain
+* Volleyball Club Member
+* Event Coordinator
 
 ---
 
 ## Certifications
 
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+* Advanced QGIS Spatial Thoughts
+* Remote Sensing & WebGIS — NASA ARSET (2026)
+* Basics of Quantum Information — IBM (2025)
+* AI for Techies — Be10x (2025)

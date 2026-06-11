@@ -21,8 +21,8 @@ CHECKLIST FOR THIS PAGE:
 <div class="hero">
   <img src="assets/images/profile.png" alt="Subham Sharma" class="profile-photo">
   <h1>Subham Sharma</h1>
-  <p><strong>Undergraduate at IIT(ISM) Dhanbad</strong></p>
-  <p><em>Remote Sensing • GIS • Geospatial Data Science • Python</em></p>
+  <p><strong>Applied Geology Undergraduate @ IIT (ISM) Dhanbad</strong></p>
+<p><em>Building Data-Driven Solutions with GIS, Remote Sensing & Python</em></p>
 </div>
 
 ---
@@ -44,79 +44,49 @@ I am an Integrated M.Tech student in Applied Geology at IIT (ISM) Dhanbad with i
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/Subham-Sharma-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Subham-CV.pdf){ .md-button }
 
 
 ---
 
 ## Skills
 
-## Skills
-
-<div class="grid cards" markdown>
-
-- :material-earth:{ .lg .middle } **GIS & Remote Sensing**
+<div class="grid card" markdown>
 
   ---
+ :material-earth:{ .lg .middle } **GIS & Remote Sensing**
+
 
   - QGIS
   - Google Earth Engine
-  - WebGIS Fundamentals
   - Satellite Image Analysis
   - Land Use & Land Cover Mapping
-
-- :material-code-braces:{ .lg .middle } **Programming**
+  - WebGIS
 
   ---
+ :material-code-braces:{ .lg .middle } **Programming & Data Science**
+
 
   - Python
   - C++
-  - HTML & CSS
-  - Data Structures & Algorithms
+  - Pandas
+  - NumPy
+  - GeoPandas
+  - Matplotlib
   - Git & GitHub
 
-- :material-chart-line:{ .lg .middle } **Geospatial Data Science**
-
   ---
+ :material-rocket-launch:{ .lg .middle } **Software, Security & Leadership**
 
-  - GeoPandas
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - Spatial Data Processing
-
-- :material-lock:{ .lg .middle } **Software & Security**
-
-  ---
 
   - Cryptography
-  - Secure Password Management
   - SQLite
   - Authentication Systems
-  - Backend Development
-
-- :material-rocket-launch:{ .lg .middle } **Projects & Entrepreneurship**
-
-  ---
-
-  - Startup Development
-  - Product Design
-  - CampusZon Marketplace
-  - Team Collaboration
-  - Problem Solving
-
-- :material-account-group:{ .lg .middle } **Professional Skills**
-
-  ---
-
+  - CampusZon
   - Leadership
-  - Communication
   - Event Management
-  - Documentation
-  - Content Writing
 
 </div>
-
 
 ---
 
