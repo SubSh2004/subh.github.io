@@ -69,6 +69,6 @@ The workflow was tested on West Bengal and produced a complete 10 m resolution f
 
 ## Links
 
-[View Code on GitHub](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY){ .md-button }
+[View Code on GitHub](https://github.com/SubSh2004/satellite-imagery-downloader){ .md-button }
 
 [Sentinel-2 Dataset](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED){ .md-button }
