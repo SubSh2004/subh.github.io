@@ -22,11 +22,11 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [sharmashubhambalaji2004@gmail.com](mailto:[sharmashubhambalaji2004@gmail.com]) |
+| :fontawesome-brands-github: **GitHub** | [github.com/SubSh2004](https://github.com/SubSh2004]) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/subham-venkateshwar-sharma](https://www.linkedin.com/in/subham-venkateshwar-sharma-061b37320/]) |
+<!--| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |-->
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/Subham-CV.pdf){ .md-button .md-button--primary }
