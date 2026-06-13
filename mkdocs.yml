@@ -11,7 +11,7 @@ site_name: "Subham's - Geospatial Portfolio"
 site_description: "Portfolio of Subham — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "Subham"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-site_url: "https://github.com/SubSh2004/subh.github.io.git"
+site_url: "https://subsh2004.github.io/subh.github.io/"
 
 theme:
   name: material
@@ -81,8 +81,9 @@ nav:
   - Projects:
     - "All Projects": projects/index.md
     - "CampusZon": projects/campuszon.md
-    - "Secure Password Manager": projects/secure-pass.md
+    - "Cyclone Amphan Visualization": projects/amphan.md
     - "Sentinel-2 Mosaic Generation": projects/sentinel2-mosaic.md
+    - "Secure Password Manager": projects/secure-pass.md
   - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md
